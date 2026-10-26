@@ -1,80 +1,80 @@
 # Hi, I'm Leandro
 
-**Full Stack Software Engineer** with 8+ years of experience building scalable applications, APIs, integrations, and enterprise software.
+Senior Software Engineer focused on backend systems, integrations, and product engineering.
 
-I enjoy turning complex workflows into simple, reliable software — from understanding the problem and designing the solution to shipping it to production.
+I build reliable software for complex operational workflows: from technical discovery and system design through implementation, delivery, observability, and continuous improvement.
 
-## About Me
+Based in Brazil. Open to remote international opportunities.
 
-*  Full Stack development with **Node.js, TypeScript, GraphQL, Vue.js, JavaScript, and C#**
-*  Background in **Civil Engineering**, with deep experience in **Construction Tech, BIM, and 3D data**
-*  Experienced in building **APIs, system integrations, automation, and enterprise platforms**
-*  Working with **AWS, Docker, Git, and cloud-based integrations**
-*  Experience with **Autodesk Platform Services (APS), Autodesk Construction Cloud (ACC), and Revit API**
-*  Based in Brazil and interested in **remote international opportunities**
+## Focus
 
-## What I've Built
+- Backend systems and API design
+- Enterprise and third-party integrations
+- B2B SaaS products
+- Data workflows and SQL
+- CI/CD, code review, and technical delivery
+- Product-minded engineering
 
-Throughout my career, I've worked at the intersection of software, product, and engineering.
+## Core Stack
 
-Some highlights:
+**Backend & APIs**  
+Node.js • TypeScript • JavaScript • C# • .NET • Entity Framework Core • GraphQL • REST APIs • Webhooks
 
-* Built and evolved enterprise SaaS products supporting **8,000+ users across 200+ customers**
-* Reduced an engineering modeling workflow from approximately **3 days to 15 minutes** through software automation
-* Built internal platforms connecting **engineering, budgeting, ERP, CRM, and pre-sales workflows**
-* Developed integrations between cloud platforms, enterprise systems, and complex 3D/BIM data
-* Built **Revit plugins**, engineering automation tools, budgeting applications, and structural analysis software
-* Worked closely with engineering and business teams on product requirements, technical decisions, and delivery
+**Data**  
+MySQL • SQL Server • SQL • Data Modeling • Query Performance
 
-## Tech Stack
+**Cloud & Delivery**  
+AWS Lambda • Docker • Azure DevOps • CI/CD • Git • Sentry
 
-**Languages**
-TypeScript • JavaScript • C# • Python
+**Engineering**  
+System Design • Software Architecture • API Integrations • Code Review • Incident Investigation
 
-**Backend**
-Node.js • GraphQL • REST APIs • .NET
+## Experience Highlights
 
-**Frontend**
-Vue.js • Angular
+At Construct IN, I build backend services and integrations for a B2B SaaS platform in the construction industry.
 
-**Cloud & DevOps**
-AWS • Docker • Git • Azure DevOps
+- Build Node.js and GraphQL services integrating external APIs, webhooks, MySQL data models, and AWS Lambda automations.
+- Improved BIM model-ingestion workflows, allowing customers to insert and link models independently instead of depending on support.
+- Delivered Autodesk Construction Cloud integration capabilities through Autodesk Platform Services.
+- Define and validate SQL queries and views for reporting, product-process visibility, and technical prioritization.
+- Contribute to architecture decisions, code reviews, incident investigation, and squad backlog decisions.
 
-**Engineering & 3D**
-Autodesk Platform Services • Autodesk Construction Cloud • Revit API • BIM • IFC
+Previously at Marko Sistemas Metalicos, I developed internal products connecting budgeting, sales, factory, engineering, and pre-sales workflows.
 
-##  What I Like Working On
+- Built backend capabilities with C#, .NET, Entity Framework Core, SQL Server, repositories, migrations, LINQ, and query-performance improvements.
+- Led a three-engineer delivery team for integrations across budgeting, sales, and factory systems.
+- Implemented Azure DevOps pipelines, deployments, tests, pull-request workflows, and code-review practices.
+- Reduced an industrial-facility modeling workflow from approximately 3 days to 20 minutes.
+- Increased budget-delivery capacity from 1 to 3-4 deliveries per week.
+- Reduced product-analysis time from 10 to 2 minutes.
 
-I'm particularly interested in problems involving:
+## What I Like Working On
 
-* Scalable SaaS products
-* Backend and API architecture
-* Complex system integrations
-* Product engineering
-* Workflow automation
-* Data-intensive applications
-* 3D and engineering platforms
+I am particularly interested in:
 
-A recurring theme throughout my career has been finding complex or repetitive workflows and asking:
+- Backend and platform engineering
+- APIs and distributed integrations
+- Complex business workflows
+- Scalable SaaS products
+- Automation that removes manual operational work
+- Systems where technical decisions have measurable product impact
 
-**"Why does this still need to be done manually?"**
+My recurring question is:
 
-That curiosity has led me from small automation tools to building integrated software platforms used in real production environments.
+> Why does this still need to be done manually?
 
-## A Note on GitHub Activity
+## Public GitHub
 
-Most of my recent professional development has been done in **private company repositories**, so my public contribution history doesn't represent the full scope of my day-to-day engineering work.
-
-I'm gradually using this space to share selected projects, experiments, and examples of how I approach software engineering.
+Most recent professional work has been developed in private company repositories. This profile is where I share selected projects, experiments, and examples of how I approach software engineering.
 
 ## Languages
 
-* 🇧🇷 Portuguese — Native
-* 🇺🇸 English — Professional Working Proficiency
-* 🇪🇸 Spanish — Conversational
+- Portuguese: Native
+- English: Fluent
+- Spanish: Professional working proficiency
 
 ## Let's Connect
 
-I'm interested in connecting with engineers, founders, and product teams working on **SaaS, developer tools, APIs, integrations, automation, and complex software products**.
+I am interested in connecting with engineers, founders, and product teams working on backend systems, SaaS, APIs, integrations, automation, and developer tools.
 
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/leandroarns/).
+[LinkedIn](https://www.linkedin.com/in/leandroarns/)
